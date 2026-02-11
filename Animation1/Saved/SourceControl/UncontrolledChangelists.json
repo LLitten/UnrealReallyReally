@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Blueprints/ABP_xBot.uasset",
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Input/IA_Emote.uasset",
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Input/IM_ThirdPerson.uasset",
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Blueprints/BP_Player.uasset",
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/Animations/Emote_HipHopDance.uasset",
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/Animations/AM_HipHopDance.uasset",
+				"D:/Profiles/lgl8899/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/__ExternalActors__/BaseMap/7/H5/6F0OARFP5CX3BHA9UFBMHM.uasset",
 				"C:/Users/lizag/OneDrive/Desktop/School/UnrealSanchez/Animation1/Content/BaseMap_HLOD0_Instancing.uasset",
 				"C:/Users/lizag/OneDrive/Desktop/School/UnrealSanchez/Animation1/Content/__ExternalActors__/BaseMap/8/I9/S35KNNMBNEUES8QDE31UU8.uasset",
 				"C:/Users/lizag/OneDrive/Desktop/School/UnrealSanchez/Animation1/Content/__ExternalObjects__/BaseMap/1/D2/NSVM17YMA6LSJE7WSJTYN7.uasset",
