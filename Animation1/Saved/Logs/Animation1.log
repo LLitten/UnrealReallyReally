@@ -5993,3 +5993,365 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.01-20.27.55:623][453]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11818.180664
 [2026.03.01-20.27.56:622][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.01-20.27.56:622][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11818.846680, Update Interval: 333.080841
+[2026.03.01-20.34.22:555][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12205.087891
+[2026.03.01-20.34.22:685][604]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.34.22:685][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12205.195312, Update Interval: 320.371094
+[2026.03.01-20.35.44:479][392]LogBlueprint: Error: [AssetLog] C:\Users\lizag\OneDrive\Desktop\GitHubLocal\UnrealReallyReally\Animation1\Content\ThirdPersonCharacter\Blueprints\BP_Player.uasset: [Compiler] Could not find a function named "VaultMotionWarp" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Vault Motion Warp
+[2026.03.01-20.35.44:554][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.01-20.35.48:282][553]LogBlueprint: Error: [AssetLog] C:\Users\lizag\OneDrive\Desktop\GitHubLocal\UnrealReallyReally\Animation1\Content\ThirdPersonCharacter\Blueprints\BP_Player.uasset: [Compiler] Could not find a function named "VaultMotionWarp" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Vault Motion Warp
+[2026.03.01-20.35.48:352][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.01-20.36.06:000][423]LogBlueprint: Error: [AssetLog] C:\Users\lizag\OneDrive\Desktop\GitHubLocal\UnrealReallyReally\Animation1\Content\ThirdPersonCharacter\Blueprints\BP_Player.uasset: [Compiler] Could not find a function named "VaultMotionWarp" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Vault Motion Warp
+[2026.03.01-20.36.06:069][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.01-20.36.35:659][829]LogBlueprint: Error: [AssetLog] C:\Users\lizag\OneDrive\Desktop\GitHubLocal\UnrealReallyReally\Animation1\Content\ThirdPersonCharacter\Blueprints\BP_Player.uasset: [Compiler] Could not find a function named "VaultMotionWarp" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Vault Motion Warp
+[2026.03.01-20.36.35:730][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.01-20.39.13:502][913]LogSlate: Window 'Delete Function' being destroyed
+[2026.03.01-20.39.17:946][ 86]LogSlate: Window 'Delete Function' being destroyed
+[2026.03.01-20.39.33:831][848]LogSlate: Window 'VaultMotionWarp2' being destroyed
+[2026.03.01-20.40.01:271][763]LogEditorTransaction: Undo Move Node
+[2026.03.01-20.40.01:630][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.01:634][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.01:653][763]LogEditorTransaction: Undo Rename Node
+[2026.03.01-20.40.02:015][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.02:018][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.02:032][763]LogEditorTransaction: Undo Rename Node
+[2026.03.01-20.40.02:388][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.02:392][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.02:405][763]LogEditorTransaction: Undo Remove Graph
+[2026.03.01-20.40.02:758][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.02:761][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.02:776][763]LogEditorTransaction: Undo Rename Node
+[2026.03.01-20.40.03:129][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.03:133][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.03:146][763]LogEditorTransaction: Undo Add Node
+[2026.03.01-20.40.03:501][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.03:505][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.03:518][763]LogEditorTransaction: Undo Delete current selection
+[2026.03.01-20.40.03:857][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.03:860][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.03:873][763]LogEditorTransaction: Undo Move Node
+[2026.03.01-20.40.04:212][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.04:215][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.04:228][763]LogEditorTransaction: Undo Function Dropped on Graph
+[2026.03.01-20.40.04:581][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.04:584][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.04:598][763]LogEditorTransaction: Undo Rename Function
+[2026.03.01-20.40.04:960][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.04:962][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.04:977][763]LogEditorTransaction: Undo Add New Function
+[2026.03.01-20.40.05:324][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.05:327][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.05:341][763]LogEditorTransaction: Undo Delete current selection
+[2026.03.01-20.40.05:683][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.05:686][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.05:700][763]LogEditorTransaction: Undo Delete current selection
+[2026.03.01-20.40.06:041][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.06:045][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.06:059][763]LogEditorTransaction: Undo Delete current selection
+[2026.03.01-20.40.06:408][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.06:411][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.06:425][763]LogEditorTransaction: Undo Rename Function
+[2026.03.01-20.40.06:795][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.06:798][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.06:813][763]LogEditorTransaction: Undo Delete current selection
+[2026.03.01-20.40.07:224][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.07:227][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.07:242][763]LogEditorTransaction: Undo Move Node
+[2026.03.01-20.40.07:586][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.07:590][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.07:605][763]LogEditorTransaction: Undo Move Node
+[2026.03.01-20.40.07:982][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.07:986][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.08:001][763]LogEditorTransaction: Undo Create Pin Link
+[2026.03.01-20.40.08:347][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.08:350][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.08:366][763]LogEditorTransaction: Undo Move Nodes
+[2026.03.01-20.40.08:771][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.08:775][763]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.40.16:698][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.03.01-20.40.19:100][889]LogSlate: Window 'Save Content' being destroyed
+[2026.03.01-20.40.21:528][ 22]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.01-20.40.22:542][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12565.138672
+[2026.03.01-20.40.22:660][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.40.22:660][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12565.238281, Update Interval: 330.493469
+[2026.03.01-20.40.27:433][347]LogSlate: Window 'View Changes' being destroyed
+[2026.03.01-20.40.27:441][347]LogSlate: Window 'View Changes' being destroyed
+[2026.03.01-20.40.49:783][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.01-20.40.54:577][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-20.40.54:585][670]LogContentBundle: [BaseMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.01-20.40.54:585][670]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2026.03.01-20.40.54:586][670]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 1.069 ms (total: 69.141 ms)
+[2026.03.01-20.40.54:586][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-20.40.54:586][670]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2026.03.01-20.40.54:607][670]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.01-20.40.54:613][670]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.958 ms (total: 350.384 ms)
+[2026.03.01-20.40.54:614][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027625s)
+[2026.03.01-20.40.54:614][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.027654s)
+[2026.03.01-20.40.54:638][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.01-20.40.54:651][670]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.03.01-20.40.54:652][670]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.01-20.40.54:653][670]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.01-20.40.54:653][670]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.01-20.40.54:653][670]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.01-20.40.54:660][670]LogWorldPartition: Display: WorldPartition initialize took 7.261 ms (total: 942.499 ms)
+[2026.03.01-20.40.54:660][670]LogPlayLevel: PIE: World Init took: (0.009058s)
+[2026.03.01-20.40.54:661][670]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-20.40.54:661][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-20.40.54:661][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-20.40.54:661][670]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-20.40.54:661][670]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-20.40.54:661][670]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-20.40.54:663][670]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-20.40.54:682][670]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2026.03.01-20.40.54:682][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-20.40.54:682][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-20.40.54:682][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-20.40.54:682][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2026.03.01-20.40.54:682][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2026.03.01-20.40.54:685][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2026.03.01-20.40.54:685][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2026.03.01-20.40.54:685][670]LogInit: FAudioDevice initialized with ID 62.
+[2026.03.01-20.40.54:685][670]LogAudio: Display: Audio Device (ID: 62) registered with world 'BaseMap'.
+[2026.03.01-20.40.54:685][670]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2026.03.01-20.40.54:689][670]LogLoad: Game class is 'GameModeBase'
+[2026.03.01-20.40.54:691][670]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2026.03.01-15.40.54
+[2026.03.01-20.40.54:691][670]LogWorld: Bringing up level for play took: 0.001740
+[2026.03.01-20.40.54:693][670]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2026.03.01-20.40.54:700][670]PIE: Server logged in
+[2026.03.01-20.40.54:703][670]PIE: Play in editor total start time 0.118 seconds.
+[2026.03.01-20.40.54:722][670]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-20.40.59:482][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-20.40.59:482][954]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2026.03.01-20.40.59:483][954]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-20.40.59:483][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-20.40.59:483][954]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2026.03.01-20.40.59:484][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-20.40.59:489][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-20.40.59:515][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-20.40.59:515][954]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2026.03.01-20.40.59:515][954]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62, StreamState=4
+[2026.03.01-20.40.59:517][954]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62, StreamState=2
+[2026.03.01-20.40.59:521][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-20.40.59:524][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.01-20.40.59:606][955]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2026.03.01-20.41.14:905][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-20.41.14:939][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCharacter/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.03.01-20.41.14:944][751]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCharacter/Blueprints/BP_Player.BP_Player]
+[2026.03.01-20.41.14:944][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCharacter/Blueprints/BP_Player]
+[2026.03.01-20.41.14:992][751]LogSavePackage: Moving output files for package: /Game/ThirdPersonCharacter/Blueprints/BP_Player
+[2026.03.01-20.41.14:993][751]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/BP_Player4293878F484DA3254D071EB8539919A0.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Blueprints/BP_Player.uasset'
+[2026.03.01-20.41.15:004][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.261 ms (total: 2.92 sec)
+[2026.03.01-20.41.15:069][751]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.01-20.41.15:069][751]LogContentValidation: Enabled validators:
+[2026.03.01-20.41.15:069][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-20.41.15:069][751]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-20.41.15:069][751]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-20.41.15:069][751]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-20.41.15:069][751]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-20.41.15:069][751]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-20.41.15:069][751]AssetCheck: /Game/ThirdPersonCharacter/Blueprints/BP_Player Validating asset
+[2026.03.01-20.41.18:063][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.01-20.41.19:284][952]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-20.41.19:291][952]LogContentBundle: [BaseMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.01-20.41.19:291][952]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' started...
+[2026.03.01-20.41.19:292][952]LogWorldPartition: Display: GenerateStreaming for 'BaseMap' took 1.085 ms (total: 70.226 ms)
+[2026.03.01-20.41.19:292][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-20.41.19:292][952]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BaseMap
+[2026.03.01-20.41.19:313][952]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.01-20.41.19:319][952]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.758 ms (total: 356.143 ms)
+[2026.03.01-20.41.19:320][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027690s)
+[2026.03.01-20.41.19:320][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BaseMap.BaseMap to /Game/UEDPIE_0_BaseMap.BaseMap (0.027739s)
+[2026.03.01-20.41.19:345][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.01-20.41.19:355][952]LogChaosDD: Creating Chaos Debug Draw Scene for world BaseMap
+[2026.03.01-20.41.19:356][952]LogWorldPartition: ULevel::OnLevelLoaded(BaseMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.01-20.41.19:356][952]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.01-20.41.19:356][952]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_BaseMap.BaseMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.01-20.41.19:356][952]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.01-20.41.19:362][952]LogWorldPartition: Display: WorldPartition initialize took 7.236 ms (total: 949.736 ms)
+[2026.03.01-20.41.19:362][952]LogPlayLevel: PIE: World Init took: (0.008890s)
+[2026.03.01-20.41.19:364][952]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-20.41.19:364][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-20.41.19:364][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-20.41.19:364][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-20.41.19:364][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-20.41.19:364][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-20.41.19:367][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-20.41.19:385][952]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2026.03.01-20.41.19:386][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-20.41.19:386][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-20.41.19:386][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-20.41.19:386][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2026.03.01-20.41.19:386][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2026.03.01-20.41.19:388][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2026.03.01-20.41.19:388][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2026.03.01-20.41.19:388][952]LogInit: FAudioDevice initialized with ID 63.
+[2026.03.01-20.41.19:388][952]LogAudio: Display: Audio Device (ID: 63) registered with world 'BaseMap'.
+[2026.03.01-20.41.19:388][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2026.03.01-20.41.19:392][952]LogLoad: Game class is 'GameModeBase'
+[2026.03.01-20.41.19:394][952]LogWorld: Bringing World /Game/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2026.03.01-15.41.19
+[2026.03.01-20.41.19:394][952]LogWorld: Bringing up level for play took: 0.001823
+[2026.03.01-20.41.19:396][952]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2026.03.01-20.41.19:405][952]PIE: Server logged in
+[2026.03.01-20.41.19:407][952]PIE: Play in editor total start time 0.115 seconds.
+[2026.03.01-20.41.19:425][952]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-20.41.43:432][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-20.41.43:432][380]LogWorld: BeginTearingDown for /Game/UEDPIE_0_BaseMap
+[2026.03.01-20.41.43:433][380]LogWorld: UWorld::CleanupWorld for BaseMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-20.41.43:433][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-20.41.43:433][380]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_BaseMap.BaseMap
+[2026.03.01-20.41.43:435][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-20.41.43:439][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-20.41.43:465][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-20.41.43:465][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2026.03.01-20.41.43:465][380]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63, StreamState=4
+[2026.03.01-20.41.43:467][380]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63, StreamState=2
+[2026.03.01-20.41.43:472][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-20.41.43:474][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.01-20.41.43:558][381]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2026.03.01-20.42.41:747][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.01-20.42.41:770][508]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/BaseMap/7/H5/6F0OARFP5CX3BHA9UFBMHM_Auto7
+[2026.03.01-20.42.41:771][508]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/6F0OARFP5CX3BHA9UFBMHM_Auto773196E36485B5C63A88D5099CF487E03.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/Autosaves/Game/__ExternalActors__/BaseMap/7/H5/6F0OARFP5CX3BHA9UFBMHM_Auto7.uasset'
+[2026.03.01-20.42.41:773][508]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BaseMap' took 0.050
+[2026.03.01-20.42.41:773][508]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2026.03.01-20.42.41:774][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCharacter/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.03.01-20.42.41:849][508]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCharacter/Blueprints/BP_Player.BP_Player]
+[2026.03.01-20.42.41:849][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCharacter/Blueprints/BP_Player]
+[2026.03.01-20.42.41:893][508]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPersonCharacter/Blueprints/BP_Player_Auto7
+[2026.03.01-20.42.41:894][508]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/BP_Player_Auto723EBE5054B051B3C8946C8AA743CA3F2.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/Autosaves/Game/ThirdPersonCharacter/Blueprints/BP_Player_Auto7.uasset'
+[2026.03.01-20.42.41:895][508]LogFileHelpers: Auto-saving content packages took 0.123
+[2026.03.01-20.43.17:256][744]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.01-20.43.17:277][744]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.01-20.43.17:288][744]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.01-20.43.17:321][745]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.01-20.43.25:818][230]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Parkour
+[2026.03.01-20.43.25:836][230]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.01-20.43.39:898][ 15]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour
+[2026.03.01-20.43.39:898][ 15]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.01-20.44.09:204][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-20.44.09:259][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCharacter/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.03.01-20.44.09:264][542]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCharacter/Blueprints/BP_Player.BP_Player]
+[2026.03.01-20.44.09:264][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCharacter/Blueprints/BP_Player]
+[2026.03.01-20.44.09:299][542]LogSavePackage: Moving output files for package: /Game/ThirdPersonCharacter/Blueprints/BP_Player
+[2026.03.01-20.44.09:301][542]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/BP_Player2E812BBD45E8344E94F5E08827DA5EDD.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Blueprints/BP_Player.uasset'
+[2026.03.01-20.44.09:310][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.163 ms (total: 3.02 sec)
+[2026.03.01-20.44.09:359][542]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.01-20.44.09:359][542]LogContentValidation: Enabled validators:
+[2026.03.01-20.44.09:359][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-20.44.09:359][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-20.44.09:359][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-20.44.09:359][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-20.44.09:359][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-20.44.09:359][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-20.44.09:359][542]AssetCheck: /Game/ThirdPersonCharacter/Blueprints/BP_Player Validating asset
+[2026.03.01-20.44.09:752][563]LogBlueprint: Error: [AssetLog] C:\Users\lizag\OneDrive\Desktop\GitHubLocal\UnrealReallyReally\Animation1\Content\ThirdPersonCharacter\Blueprints\BP_Player.uasset: [Compiler] Could not find a function named "VaultMotionWarp" in 'BP_Player_C'.
+Make sure 'BP_Player_C' has been compiled for  Vault Motion Warp
+[2026.03.01-20.44.09:867][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.01-20.44.11:212][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "VaultLandPos" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get
+[2026.03.01-20.44.11:212][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "CanWarp" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Set CanWarp
+[2026.03.01-20.44.11:212][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "CharacterMovement" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get CharacterMovement
+[2026.03.01-20.44.11:213][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "Mesh" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get Mesh
+[2026.03.01-20.44.11:213][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "VaultLandPos" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get VaultLandPos
+[2026.03.01-20.44.11:213][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "MotionWarping" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get MotionWarping
+[2026.03.01-20.44.11:213][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "VaultMiddlePos" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get VaultMiddlePos
+[2026.03.01-20.44.11:213][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "MotionWarping" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get MotionWarping
+[2026.03.01-20.44.11:213][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "VaultStartPos" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get VaultStartPos
+[2026.03.01-20.44.11:214][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "MotionWarping" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get MotionWarping
+[2026.03.01-20.44.11:214][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "CharacterMovement" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get CharacterMovement
+[2026.03.01-20.44.11:214][628]LogBlueprint: Warning: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] Could not find a variable named "CanWarp" in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'.
+Make sure '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C' has been compiled for  Get CanWarp
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Can Warp  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Character Movement  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Motion Warping  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Vault Start Pos  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Motion Warping  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Vault Middle Pos  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:217][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Motion Warping  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:218][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Vault Land Pos  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:218][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Mesh  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:218][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Character Movement  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:218][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Can Warp  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:218][628]LogBlueprint: Error: [AssetLog] /Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour: [Compiler] The property associated with  Vault Land Pos  could not be found in '/Game/ThirdPersonCharacter/Blueprints/BP_Parkour.BP_Parkour_C'
+[2026.03.01-20.44.11:224][628]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.01-20.44.11:271][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.01-20.44.19:336][ 76]LogEditorTransaction: Undo Delete current selection
+[2026.03.01-20.44.19:674][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.44.19:678][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.44.20:380][105]LogEditorTransaction: Undo Paste clipboard contents
+[2026.03.01-20.44.20:697][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.44.20:700][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.44.21:429][149]LogEditorTransaction: Undo Remove Graph
+[2026.03.01-20.44.21:760][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.44.21:763][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.03.01-20.44.42:061][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.01-20.45.33:750][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.01-20.46.26:015][899]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12928.768555
+[2026.03.01-20.46.26:133][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-20.46.26:133][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12928.867188, Update Interval: 329.186066
+[2026.03.01-20.48.00:170][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-20.48.00:205][564]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCharacter/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.03.01-20.48.00:278][564]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCharacter/Blueprints/BP_Player.BP_Player]
+[2026.03.01-20.48.00:278][564]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCharacter/Blueprints/BP_Player]
+[2026.03.01-20.48.00:323][564]LogSavePackage: Moving output files for package: /Game/ThirdPersonCharacter/Blueprints/BP_Player
+[2026.03.01-20.48.00:324][564]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/BP_Player1BB509D146F1BF8777E0A5AF8F5B7615.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Blueprints/BP_Player.uasset'
+[2026.03.01-20.48.00:333][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.846 ms (total: 3.19 sec)
+[2026.03.01-20.48.00:389][564]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.01-20.48.00:389][564]LogContentValidation: Enabled validators:
+[2026.03.01-20.48.00:389][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-20.48.00:389][564]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-20.48.00:389][564]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-20.48.00:389][564]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-20.48.00:389][564]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-20.48.00:389][564]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-20.48.00:389][564]AssetCheck: /Game/ThirdPersonCharacter/Blueprints/BP_Player Validating asset
+[2026.03.01-20.48.01:514][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.01-20.48.02:476][635]LogSlate: Window 'Save Content' being destroyed
+[2026.03.01-20.48.02:485][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-20.48.02:541][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonCharacter/Blueprints/BP_Parkour] ([2] browsable assets)...
+[2026.03.01-20.48.02:541][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCharacter/Blueprints/BP_Parkour]
+[2026.03.01-20.48.02:551][635]LogSavePackage: Moving output files for package: /Game/ThirdPersonCharacter/Blueprints/BP_Parkour
+[2026.03.01-20.48.02:551][635]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/BP_Parkour62D2491F488D21C6AA2A80B2CFD56598.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/ThirdPersonCharacter/Blueprints/BP_Parkour.uasset'
+[2026.03.01-20.48.02:564][635]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/BaseMap/7/H5/6F0OARFP5CX3BHA9UFBMHM
+[2026.03.01-20.48.02:565][635]LogSavePackage: Moving '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/6F0OARFP5CX3BHA9UFBMHMB41D19334D421D044FBF93B19BE5103A.tmp' to '../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Content/__ExternalActors__/BaseMap/7/H5/6F0OARFP5CX3BHA9UFBMHM.uasset'
+[2026.03.01-20.48.02:574][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.379 ms (total: 3.28 sec)
+[2026.03.01-20.48.02:608][635]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.01-20.48.02:608][635]LogContentValidation: Enabled validators:
+[2026.03.01-20.48.02:608][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-20.48.02:609][635]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-20.48.02:609][635]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-20.48.02:609][635]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-20.48.02:609][635]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-20.48.02:609][635]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-20.48.02:609][635]AssetCheck: /Game/ThirdPersonCharacter/Blueprints/BP_Parkour Validating asset
+[2026.03.01-20.48.02:609][635]AssetCheck: /Game/BaseMap Validating asset
+[2026.03.01-20.48.02:634][635]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/lizag/OneDrive/Desktop/GitHubLocal/UnrealReallyReally/Animation1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.01-20.48.03:809][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
